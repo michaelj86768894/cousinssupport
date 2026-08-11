@@ -231,3 +231,8 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+.resource-column .vendor-name {
+  color: var(--primary-red);
+  font-weight: 600;
+}
